@@ -1,5 +1,10 @@
 # Stackoverflow-Automation
 
+File Structure : 
+
+main.py    ------>  wrapper script to search the error automatically in the browser       
+testinput.py  ------>  test script
+
 Requirement to run the python script
 1. pip install requests
 2. pip install pyttsx3  (if you want to run the voice module)
