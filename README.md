@@ -3,7 +3,7 @@
 File Structure : 
 
 main.py    ------>  wrapper script to search the error automatically in the browser       
-testinput.py  ------>  test script
+test_input.py  ------>  test script
 
 Requirement to run the python script
 1. pip install requests
